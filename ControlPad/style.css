@@ -1,7 +1,9 @@
 body {
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#controls {
+    margin-bottom: 10px;
 }
